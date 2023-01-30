@@ -12,9 +12,6 @@ class ProfileViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
-//        view.backgroundColor = .yellow
-
         let screenWidht = UIScreen.main.bounds.width
         let screenHeight = UIScreen.main.bounds.height
 
